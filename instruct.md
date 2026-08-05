@@ -1,5 +1,8 @@
 # Product List API Instructions
 
+This project contains a small FastAPI application that stores products in a static in-memory list. The app starts with five hard-coded products and supports listing, adding, modifying, and deleting products.
+
+> Note: Products are stored in memory only. Any products added, modified, or deleted are reset when the server restarts.
 This project contains a small FastAPI application that returns a hard-coded list of five products.
 
 ## Prerequisites
